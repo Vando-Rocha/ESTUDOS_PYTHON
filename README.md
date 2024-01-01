@@ -1,2 +1,2 @@
 # ESTUDOS_PYTHON
-Repositório para organização de exercicíos e mini projetos realizados par estudos da linguagem Python
+Repositório para organização de exercicíos e mini projetos realizados para estudos da linguagem Python
